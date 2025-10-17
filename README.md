@@ -44,7 +44,7 @@ Contoh salah satu fitur:
   }
 }
 ```
-#Interpretasi Data
+📍 Interpretasi Data
 
 Point merepresentasikan titik penting di wilayah desa (misalnya simpul jalan, lokasi fasilitas, atau titik referensi lain).
 
