@@ -27,7 +27,7 @@ Setiap fitur dalam file ini memiliki:
 - **properties**: berisi atribut tambahan dari data (contoh: jenis jalan, id OSM, dll).
 
 Contoh salah satu fitur:
-```json
+json
 {
   "type": "Feature",
   "properties": {
@@ -44,7 +44,7 @@ Contoh salah satu fitur:
   }
 }
 
-Interpretasi Data
+#Interpretasi Data
 
 Point merepresentasikan titik penting di wilayah desa (misalnya simpul jalan, lokasi fasilitas, atau titik referensi lain).
 
