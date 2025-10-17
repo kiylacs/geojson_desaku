@@ -4,11 +4,13 @@ Ringkasan:
 - Terdapat 229 fitur di dalamnya.
 - Jenis geometri yang digunakan ada Point (titik koordinat) dan LineString (garis/polylines).
 - Contoh koordinat (LineString):
-[107.4961275, -6.8654203],
+```[107.4961275, -6.8654203],
 [107.4958134, -6.8653953],
 [107.4949102, -6.8653158]
+```
 - Properties di tiap fitur berisi informasi OSM (OpenStreetMap), misalnya:
-{ "@id": "way/306326531", "highway": "service" }
+```{ "@id": "way/306326531", "highway": "service" }
+```
 yang menunjukkan bahwa sebagian data berupa jalan (service road).
 
 # Deskripsi GeoJSON Desa
