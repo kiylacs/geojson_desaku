@@ -10,7 +10,9 @@ Ringkasan:
 [107.4949102, -6.8653158]
 ```
 - Properties di tiap fitur berisi informasi OSM (OpenStreetMap), misalnya:
-```{ "@id": "way/306326531", "highway": "service" }```
+```
+{ "@id": "way/306326531", "highway": "service" }
+```
 yang menunjukkan bahwa sebagian data berupa jalan (service road).
 
 # Deskripsi GeoJSON Desa
